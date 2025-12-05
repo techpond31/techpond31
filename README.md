@@ -1,7 +1,7 @@
 <h1 align="center" style="font-size: 30px;">Senior Full-Stack Engineer</h1>
 
 <div align="center">
-  <img src="https://github.com/techpond31/techpond31/blob/main/new.jpg" alt="Senior Software Engineer" />
+  <img src="https://github.com/techpond31/techpond31/blob/master/new.jpg" alt="Senior Software Engineer" />
 </div>
 
 <div align="center">
