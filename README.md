@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://github.com/techpond31/techpond31/blob/master/hearder.png" alt="Japanese Developer Banner" width="100%" />
+  <img src="https://github.com/techpond31/techpond31/blob/master/header.png" alt="Japanese Developer Banner" width="100%" />
 </div>
 
 <br />
