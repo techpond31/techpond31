@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://github.com/techpond31/techpond31/blob/master/hearder.png" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Serif+JP&weight=600&size=32&duration=3000&pause=1000&color=C41E3A&center=true&vCenter=true&width=600&lines=%E6%8A%80%E8%A1%93%E3%82%92%E6%84%9B%E3%81%99%E3%82%8B%E3%80%81;%E4%BA%BA%E3%82%92%E3%82%82%E3%81%A3%E3%81%A8%E6%84%9B%E3%81%99%E3%82%8B;Love+Tech%2C+Love+People+More" alt="Typing SVG" />
 </h1>
 
 <div align="center">
-  <img src="./public/header.jpg" alt="Japanese Developer Banner" width="100%" />
+  <img src="https://github.com/techpond31/techpond31/blob/master/hearder.png" alt="Japanese Developer Banner" width="100%" />
 </div>
 
 <br />
